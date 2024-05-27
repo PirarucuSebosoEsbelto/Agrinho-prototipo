@@ -27,3 +27,7 @@ body{
     .logo1{
       display: flex;
     }
+
+    .titulo{
+      display: flex;
+    }
