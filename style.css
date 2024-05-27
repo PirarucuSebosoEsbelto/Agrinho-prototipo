@@ -11,3 +11,14 @@ body{
     --cor-de-texto: black;
     --cor-do-cabeçalho: #595252;
     }
+   
+    header{
+      display: flex;
+      align-items: center;
+      flex-direction: row;
+      flex-wrap: nowrap;
+      align-content: stretch;
+      justify-content: space-evenly;
+      background-color: var(--cor-do-cabeçalho);
+      border: 2px solid var(--cor-de-texto);
+    }
